@@ -1,3 +1,2 @@
 # UnityAssets
-
-Extension library for the Unity namespace.
+Extension library for the Unity namespace. 
