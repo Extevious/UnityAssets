@@ -1,0 +1,8 @@
+{
+	"name": "com.extevious.unityassets",
+	"version": "1.0.0",
+	"dependencies": {},
+	"description": "Extension library for the Unity namespace.",
+	"displayName": "UnityAssets",
+	"type": "module"
+}

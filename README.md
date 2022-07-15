@@ -1,2 +1,3 @@
 # UnityAssets
- Tools, extensions, assets, and other resources for Unity. 
+
+Extension library for the Unity namespace.
